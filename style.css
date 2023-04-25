@@ -1,0 +1,38 @@
+/* !RESTO */
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(127, 255, 212, 0.231);
+}
+
+.container {
+  align-items: center;
+  text-align: center;
+  margin-top: 15%;
+}
+
+.button-container {
+  font-size: 40px;
+}
+
+.span {
+  font-size: 80px;
+}
+
+/*! boton */
+.btn {
+  border: 1px solid rgb(16, 13, 34);
+  color: rgb(16, 13, 34);
+  padding: 5px;
+  letter-spacing: 3px;
+  border-radius: 5px;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 12px;
+  transition: all 0.3s;
+}
+
+.btn:hover {
+  color: white;
+  background-color: rgb(16, 13, 34);
+  transition: all 0.3s;
+}
